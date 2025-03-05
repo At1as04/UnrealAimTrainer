@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AimTrainer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AimTrainer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AimTrainerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AimTrainer">
+      <UniqueIdentifier>{C5E4EAC6-8DFF-3576-A383-DB0AEB9C9FCE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AimTrainer\AimTrainer.Build.cs">
+      <Filter>Source\AimTrainer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainer.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainer.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AimTrainer\PlayerCharacter.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\PlayerCharacter.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AimTrainer",
+			"Path": "..\\Source\\AimTrainer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AimTrainerEditor",
+			"Path": "..\\Source\\AimTrainerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

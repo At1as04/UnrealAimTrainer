@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ethan schneider\\documents\\unreal projects\\aimtrainer\\source\\aimtrainer\\aimtrainer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ethan schneider\\documents\\unreal projects\\aimtrainer\\intermediate\\build\\win64\\x64\\aimtrainereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ethan schneider\\documents\\unreal projects\\aimtrainer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aimtrainer\\definitions.aimtrainer.h",
+            "c:\\users\\ethan schneider\\documents\\unreal projects\\aimtrainer\\source\\aimtrainer\\aimtrainer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
