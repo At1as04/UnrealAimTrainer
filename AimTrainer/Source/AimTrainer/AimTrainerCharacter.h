@@ -37,8 +37,12 @@ class AAimTrainerCharacter : public ACharacter
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
 	UInputAction* MoveAction;
 	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon", meta = (AllowPrivateAccess = "true"))
+	TSubclassOf<class AActor> m_cPistol; //Weapon ref.
+
 public:
 	AAimTrainerCharacter();
+	void EquipWeapon();
 
 protected:
 	virtual void BeginPlay();

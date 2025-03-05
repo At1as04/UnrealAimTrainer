@@ -10,6 +10,7 @@
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
 #include "Engine/LocalPlayer.h"
+#include "TP_WeaponComponent.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
@@ -38,10 +39,23 @@ AAimTrainerCharacter::AAimTrainerCharacter()
 
 }
 
+void AAimTrainerCharacter::EquipWeapon() {
+	APlayerController* player_cont = Cast<APlayerController>(GetController());
+	const FRotator player_rotation = player_cont->PlayerCameraManager->GetCameraRotation();
+	const FVector player_location = GetOwner()->GetActorLocation();
+	FActorSpawnParameters player_spawn_params;
+	player_spawn_params.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
+
+	AActor* player_gun = GetWorld()->SpawnActor<AActor>(m_cPistol, player_location, player_rotation, player_spawn_params);
+	UTP_WeaponComponent* player_weapon = Cast<UTP_WeaponComponent>(player_gun->GetComponentByClass(UTP_WeaponComponent::StaticClass()));
+	player_weapon->AttachWeapon(this);
+}
+
 void AAimTrainerCharacter::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+	EquipWeapon();
 }
 
 //////////////////////////////////////////////////////////////////////////// Input
