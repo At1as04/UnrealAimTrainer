@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G2YxWf//b10=",
+  "dgSpecHash": "4vYqjV/nfeQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ethan Schneider\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\Ethan Schneider\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",

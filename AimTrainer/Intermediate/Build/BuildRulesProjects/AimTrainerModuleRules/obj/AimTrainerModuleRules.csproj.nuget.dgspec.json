@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj": {}
+    "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1304,14 +1304,14 @@
         }
       }
     },
-    "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj": {
+    "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
         "projectName": "AimTrainerModuleRules",
-        "projectPath": "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
+        "projectPath": "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\AimTrainerModuleRules.csproj",
         "packagesPath": "C:\\Users\\Ethan Schneider\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Intermediate\\Build\\BuildRulesProjects\\AimTrainerModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

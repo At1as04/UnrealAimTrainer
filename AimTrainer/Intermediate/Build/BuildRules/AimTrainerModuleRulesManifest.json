@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Source\\AimTrainer\\AimTrainer.Build.cs",
-		"C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Source\\AimTrainer.Target.cs",
-		"C:\\Users\\Ethan Schneider\\Documents\\Unreal Projects\\AimTrainer\\Source\\AimTrainerEditor.Target.cs"
+		"C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Source\\AimTrainer\\AimTrainer.Build.cs",
+		"C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Source\\AimTrainer.Target.cs",
+		"C:\\Users\\Ethan Schneider\\Documents\\GitHub\\UnrealAimTrainer\\AimTrainer\\Source\\AimTrainerEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

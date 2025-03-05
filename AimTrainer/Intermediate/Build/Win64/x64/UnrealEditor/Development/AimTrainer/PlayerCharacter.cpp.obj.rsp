@@ -1,11 +1,11 @@
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Source\AimTrainer\PlayerCharacter.cpp"
-/FI"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\Definitions.AimTrainer.h"
-/Yu"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.obj"
-/sourceDependencies "C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.dep.json"
-@"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.Shared.rsp"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Source\AimTrainer\PlayerCharacter.cpp"
+/FI"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\Definitions.AimTrainer.h"
+/Yu"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.obj"
+/sourceDependencies "C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.dep.json"
+@"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

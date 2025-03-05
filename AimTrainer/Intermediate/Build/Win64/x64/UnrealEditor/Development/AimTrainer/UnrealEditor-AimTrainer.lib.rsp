@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-AimTrainer.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.init.gen.cpp.obj"
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.gen.cpp.obj"
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.cpp.obj"
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.obj"
-"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\Default.rc2.res"
-/OUT:"C:\Users\Ethan Schneider\Documents\Unreal Projects\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\UnrealEditor-AimTrainer.lib"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\AimTrainerEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.init.gen.cpp.obj"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.gen.cpp.obj"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\AimTrainer.cpp.obj"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\PlayerCharacter.cpp.obj"
+"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\Default.rc2.res"
+/OUT:"C:\Users\Ethan Schneider\Documents\GitHub\UnrealAimTrainer\AimTrainer\Intermediate\Build\Win64\x64\UnrealEditor\Development\AimTrainer\UnrealEditor-AimTrainer.lib"

@@ -15,7 +15,7 @@ APlayerCharacter::APlayerCharacter()
 void APlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	GetWorld()->SpawnActor<AActor>();
+	
 }
 
 // Called every frame
