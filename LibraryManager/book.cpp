@@ -38,7 +38,7 @@ bool book::is_checked_out() const { return checked_out; }
 
 void book::set_title(const std::string& value) {
 	if (value == "") {
-		throw "Title cannot be empty";
+		throw std::exception("Title cannot be empty");
 	}
 	title = value;
 }
@@ -49,14 +49,14 @@ void book::set_author(const author& value) {
 
 void book::set_genre(const std::string& value) {
 	if (value == "") {
-		throw "Genre cannot be empty";
+		throw std::exception("Genre cannot be empty");
 	}
 	genre = value;
 }
 
 void book::set_page_length(int value) {
 	if (value <= 0) {
-		throw "Invalid page length value";
+		throw std::exception("Invalid page length value");
 	}
 	page_length = value;
 }

@@ -13,17 +13,16 @@ private:
 public:
 	// constructors
 	author();
-	author(std::string first, std::string last);
-
+	author(const std::string& first, const std::string& last);
 
 	// methods
 	void print() const;
 
 
-	// getters and setters
+	// getters and setters 
 	std::string get_first() const;
 	std::string get_last() const;
 
-	void set_first(std::string);
-	void set_last(std::string);
+	void set_first(const std::string&);
+	void set_last(const std::string&);
 };
