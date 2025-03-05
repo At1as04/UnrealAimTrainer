@@ -18,6 +18,7 @@ APistol::APistol()
 void APistol::BeginPlay()
 {
 	Super::BeginPlay();
+	
 	pistol_component->pistol_offset = pistol_offset;
 }
 
