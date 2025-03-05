@@ -38,6 +38,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
 	class UInputAction* FireAction;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
+	FVector pistol_offset = FVector(100.f, 0.f, 10.f);
+
 	/** Sets default values for this component's properties */
 	UTP_WeaponComponent();
 

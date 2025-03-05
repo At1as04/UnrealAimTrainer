@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "Pistol.generated.h"
 #include "TP_WeaponComponent.h"
+#include "Pistol.generated.h"
 
 UCLASS()
 class AIMTRAINER_API APistol : public AActor
