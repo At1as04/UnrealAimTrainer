@@ -4,10 +4,8 @@
 
 
 int main() {
-	author p1 = author("Ethan", "Snickerdoodle");
-
-	book b1 = book("Sigma", p1, "Action", 200);
-	book b2 = book("Not Sigma", p1, "Romance", 125);
+	book b1 = book("Sigma", "Ethan Snickerdoodle", "Action", 200);
+	book b2 = book("Not Sigma", "Ethan Snickerdoodle", "Romance", 125);
 
 	b1.print();
 
@@ -15,7 +13,7 @@ int main() {
 	b2.print();
 
 	try {
-		book b3 = book("Uh", author("A", "B"), "", 5);
+		book b3 = book("Uh", "smella", "", 5);
 
 		b3.print();
 	}

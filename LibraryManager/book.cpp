@@ -3,9 +3,9 @@
 
 
 // constructors
-book::book(const std::string& title, const author& person, const std::string& genre, int page_length) {
+book::book(const std::string& title, const std::string& author, const std::string& genre, int page_length) {
 	set_title(title);
-	set_author(person);
+	set_author(author);
 	set_genre(genre);
 	set_page_length(page_length);
 }
@@ -13,8 +13,7 @@ book::book(const std::string& title, const author& person, const std::string& ge
 
 // methods
 void book::print() const {
-	std::cout << "\'" << title << "\' by "; 
-	person.print();
+	std::cout << "\'" << title << "\' by " << author;
 	std::cout << " (" << genre << ") | " << page_length << " pages | ";
 	if (is_checked_out()) {
 		std::cout << "CHECKED OUT" << std::endl;
@@ -27,7 +26,7 @@ void book::print() const {
 // getters and setters
 std::string book::get_title() const { return title; }
 
-author book::get_author() const { return person; }
+std::string book::get_author() const { return author; }
 
 std::string book::get_genre() const { return genre; }
 
@@ -43,8 +42,11 @@ void book::set_title(const std::string& value) {
 	title = value;
 }
 
-void book::set_author(const author& value) {
-	person = value;
+void book::set_author(const std::string& value) {
+	if (value == "") {
+		throw std::exception("Author cannot be empty");
+	}
+	author = value;
 }
 
 void book::set_genre(const std::string& value) {
